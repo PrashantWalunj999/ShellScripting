@@ -1,0 +1,8 @@
+total 8
+drwxrwxr-x 5 prashant prashant 4096 Feb 21 22:18 ..
+drwxrwxr-x 2 prashant prashant 4096 Feb 21 22:18 .
+-rw-rw-r-- 1 prashant prashant    0 Feb 22 09:43 ll.txt
+total 4
+-rw-rw-r-- 1 prashant prashant 167 Feb 22 09:43 ll.txt
+total 4
+-rw-rw-r-- 1 prashant prashant 230 Feb 22 09:45 ll.txt
