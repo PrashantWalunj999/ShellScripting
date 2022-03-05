@@ -1,0 +1,4 @@
+total 72
+-rw-rw-r-- 1 prashant prashant 67123 Mar  5 17:15 1.+tr+command.pdf
+-rw-rw-r-- 1 prashant prashant    17 Mar  5 17:32 xyz.txt
+-rw-rw-r-- 1 prashant prashant     0 Mar  5 17:46 output.txt
